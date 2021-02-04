@@ -31,5 +31,8 @@
 *.out
 *.app
 
+# macOS Extensions
+*.dSYM
+
 # Directories
-Planet.dSYM/
+build/
