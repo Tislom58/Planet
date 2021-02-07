@@ -33,6 +33,8 @@
 
 # macOS Extensions
 *.dSYM
+*.DS_Store
 
 # Directories
 build/
+Planet.dSYM/
