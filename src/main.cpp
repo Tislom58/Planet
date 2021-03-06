@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#include "planet.h"
+#include "planet.hpp"
 
 void drawLine(unsigned len, char c);
 void definePlanet();

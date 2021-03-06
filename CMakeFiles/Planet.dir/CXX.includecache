@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lubo/Documents/dev/Planet/src/main.cpp
+iostream
+-
+string
+-
+planet.hpp
+/Users/lubo/Documents/dev/Planet/src/planet.hpp
+
+/Users/lubo/Documents/dev/Planet/src/planet.cpp
+iostream
+-
+string
+-
+planet.hpp
+/Users/lubo/Documents/dev/Planet/src/planet.hpp
+
+include/planet.hpp
+string
+-
+
